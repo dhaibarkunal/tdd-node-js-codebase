@@ -1,0 +1,16 @@
+{
+  "name": "tdd-node-js-codebase",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Kunal Dhaibar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
