@@ -8,4 +8,4 @@
   <li>You can run the tests using <b>npm test</b></li>
 </ul>
 
-<p>Note: To test given code with custom inputs, you can goto index.js file and change parameter of <b>add</b> function at line number 12 </p>
+<p>Note: To test given code with custom inputs, you can goto index.js file and change parameter of <b>add</b> function at line number 25 </p>
